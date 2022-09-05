@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+dimen fab_margin
+id FirstFragment
+id SecondFragment
+id action_FirstFragment_to_SecondFragment
+id action_SecondFragment_to_FirstFragment
+id nav_graph
+layout activity_home_screen
+navigation nav_graph
+string action_sign_in
+string action_sign_in_short
+string first_fragment_label
+string hello_first_fragment
+string hello_second_fragment
+string invalid_password
+string invalid_username
+string login_failed
+string next
+string previous
+string prompt_email
+string prompt_password
+string second_fragment_label
+string title_activity_login
+string title_activity_main
+string welcome
+style Theme.MyApplication
+style Theme.MyApplication.AppBarOverlay
+style Theme.MyApplication.NoActionBar
+style Theme.MyApplication.PopupOverlay
